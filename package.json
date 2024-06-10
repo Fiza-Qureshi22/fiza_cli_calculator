@@ -1,0 +1,19 @@
+{
+  "name": "fiza_simple_calculator_project",
+  "version": "1.0.9",
+  "description": "its simple calculator wit typesript and node js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fiza",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
